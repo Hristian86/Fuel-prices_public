@@ -1,0 +1,117 @@
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\source\repos\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\Full_Authentication_Net_Core_App\AkciqApp\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\Web_Api_REGISTER_ADN_LOGIN\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\GithubForum\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Gas_Prices\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.deps.json
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.dll
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\bin\Debug\netcoreapp3.1\AkciqApp.Common.pdb
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.csproj.CopyComplete
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Gas_Station\AkciqApp.Models\obj\Debug\netcoreapp3.1\AkciqApp.Models.pdb

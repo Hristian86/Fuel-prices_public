@@ -1,0 +1,16 @@
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\bin\Release\netcoreapp3.1\AkciqApp.Models.deps.json
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\bin\Release\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\bin\Release\netcoreapp3.1\AkciqApp.Models.pdb
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.dll
+C:\Users\Pencho\Desktop\AkciqApp\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\bin\Release\netcoreapp3.1\AkciqApp.Models.deps.json
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\bin\Release\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\bin\Release\netcoreapp3.1\AkciqApp.Models.pdb
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.csprojAssemblyReference.cache
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.AssemblyInfoInputs.cache
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.AssemblyInfo.cs
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.dll
+G:\FilesForGithub\Net-Core-back-end-server-wuth-actons\AkciqApp.Models\obj\Release\netcoreapp3.1\AkciqApp.Models.pdb

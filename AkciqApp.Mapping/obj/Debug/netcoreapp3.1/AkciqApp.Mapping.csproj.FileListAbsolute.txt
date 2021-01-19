@@ -1,0 +1,48 @@
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.deps.json
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.deps.json
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+C:\Users\Pencho\Desktop\Web_Appi_ForumBased – Копие (3) – Копие\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.deps.json
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfoInputs.cache
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfo.cs
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+C:\Users\Pencho\Desktop\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.deps.json
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.csprojAssemblyReference.cache
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfoInputs.cache
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfo.cs
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+G:\FilesForGithub\WORKING_DOKERFILE_FOR_HEROKU\GasStations\My_Forum_System\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.deps.json
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.csprojAssemblyReference.cache
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfoInputs.cache
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfo.cs
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+G:\FilesForGithub\Gas_Prices\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.deps.json
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\bin\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.csprojAssemblyReference.cache
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfoInputs.cache
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.AssemblyInfo.cs
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.dll
+G:\FilesForGithub\Gas_Station\AkciqApp.Mapping\obj\Debug\netcoreapp3.1\AkciqApp.Mapping.pdb

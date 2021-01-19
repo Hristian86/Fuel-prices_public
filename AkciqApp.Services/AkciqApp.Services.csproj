@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.9.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AkciqApp.Common\AkciqApp.Common.csproj" />
+    <ProjectReference Include="..\AkciqApp.Data\AkciqApp.Data.csproj" />
+    <ProjectReference Include="..\AkciqApp.Mapping\AkciqApp.Mapping.csproj" />
+    <ProjectReference Include="..\AkciqApp.Models\AkciqApp.Models.csproj" />
+    <ProjectReference Include="..\AkciqApp.ViewModels\AkciqApp.ViewModels.csproj" />
+    <ProjectReference Include="..\Web_Scraper\Web_Scraper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ContactServices\" />
+  </ItemGroup>
+
+</Project>

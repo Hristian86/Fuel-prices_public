@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="container contact-header-holder">
+
+    <div class="row">
+        <div class="col-md-3 contact-left-letters">
+            <div class="contact-info-holder">
+                <img src="https://image.ibb.co/kUASdV/contact-image.png" alt="image" />
+                <h2>Contact me</h2>
+                <h4>I would love to hear from you !</h4>
+                <br />
+                <h4>Please let me know if there is anything i can do for you :) .</h4>
+            </div>
+        </div>
+        <div class="col-md-9 idk-what-is-this">
+            <form class="contact-form-header" id="contact-form-prev">
+                @Html.AntiForgeryToken()
+                <div class="form-group">
+                    <label class="control-label col-sm-2">Name *</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control reset__onsuccess" id="fname" placeholder="Name - minimum 2 symbols" name="name" required />
+                    </div>
+                    <span id="errorName" class="text-danger ml-4"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-2">Subject *</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control reset__onsuccess" id="subject" placeholder="Subject - minimum 3 symbols" name="subject" maxlength="50" required />
+                    </div>
+                    <span id="errorSubject" class="text-danger ml-4"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-2">Email *</label>
+                    <div class="col-sm-10">
+                        <input type="email" class="form-control reset__onsuccess" id="email" placeholder="Enter email - minimum 3 sybols" name="email" required />
+                    </div>
+                    <span id="errorEmail" class="text-danger ml-4"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-2">Message *</label>
+                    <div class="col-sm-10">
+                        <textarea class="form-control reset__onsuccess" rows="5" id="comment" name="content" maxlength="500" required></textarea>
+                    </div>
+                    <span id="errorContent" class="text-danger ml-4"></span>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        <button id="buttonSuccess" type="submit" class="btn btn-primary">Submit</button>
+                        <em id="loading" style="display: none;">Loading...</em>
+                        <span id="errorSuccess" class="text-success ml-2"></span>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

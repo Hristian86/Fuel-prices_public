@@ -1,0 +1,171 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+/*Short content post style*/
+.short-content-post {
+    /*height: 54px;*/
+}
+
+/*Hover over icons in ById view*/
+.hover-button-type {
+    cursor: pointer;
+}
+
+.hover-button-type:hover {
+    color: red !important;
+    cursor: pointer;
+}
+/*End of hover over icons in ById view*/
+
+
+#votesCount {
+    width: 15px;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+
+    /*.short-content-post {
+        height: 154px;
+    }*/
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+/* Cookie consnet*/
+
+.cookie-banner {
+    position: fixed;
+    bottom: 0px;
+    /*left: 10%;
+    right: 10%;*/
+    width: 100%;
+    padding: 5px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+    z-index: 99 !important;
+}
+
+.close {
+    height: 20px;
+    background-color: #777;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#cookieConsents {
+    width: 100%;
+    /*position:fixed;*/
+}
+
+.cookie__policy {
+    text-decoration: none!important;
+}
+
+/* Contact page*/
+.contact-header-holder {
+    padding: 4%;
+    height: 400px;
+}
+
+.contact-left-letters {
+    background: #ff9b00;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+
+.contact-info-holder {
+    margin-top: 10%;
+}
+
+    .contact-info-holder img {
+        margin-bottom: 15%;
+    }
+
+    .contact-info-holder h2 {
+        margin-bottom: 10%;
+    }
+
+.idk-what-is-this {
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+
+.contact-form-header label {
+    font-weight: 600;
+}
+
+.contact-form-header button {
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+
+    .contact-form-header button:focus {
+        box-shadow: none;
+    }
+
+
+@media only screen and (max-width: 767px) {
+    .contact-header-holder {
+        height: 1000px!important;
+    }
+}

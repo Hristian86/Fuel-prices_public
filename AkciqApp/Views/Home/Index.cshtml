@@ -1,0 +1,117 @@
+﻿@using AkciqApp.ViewModels.GasStationViewHolder
+@model AkciqApp.ViewModels.GasStationViewHolder.GasStationViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+<form onchange="$('#autoPost').submit();"
+      asp-controller="Home"
+      asp-action="Index"
+      id="autoPost" class="mb-2">
+
+    <select name="city" class="btn btn-outline-success">
+        <option value="@Model.City">Current City: @Model.City</option>
+
+        @foreach (var address in Model.Addresses)
+        {
+            <option value="@address">@address</option>
+        }
+
+    </select>
+
+</form>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Gas type.</th>
+                <th scope="col">Price.</th>
+                <th scope="col">Promo with card.</th>
+                <th scope="col">Promo with card2.</th>
+            </tr>
+        </thead>
+        @{
+            int index = 0;
+        }
+        @foreach (var station in Model.GasStatuons)
+        {
+            index += 1;
+            int growNumber = Model.CurrentPage > 1 ? (Model.CurrentPage - 1) * Model.ItemsPerPage : 0;
+
+            string result = index + growNumber + ".";
+            <tbody>
+                <tr>
+                    <td>
+                        @result @station.GasStationName
+                    </td>
+                </tr>
+
+                @Html.Raw(station.TableData)
+            </tbody>
+        }
+    </table>
+</div>
+
+@if (this.Model.Pages > 1)
+{
+    <nav aria-label="...">
+        <ul class="pagination justify-content-center">
+
+            @if (this.Model.CurrentPage <= 1)
+            {
+                <li class="page-item disabled">
+                    <span class="page-link">Previous</span>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link "
+                       asp-controller="Home"
+                       asp-action="Index"
+                       asp-route-city="@Model.City"
+                       asp-route-page="@(this.Model.CurrentPage - 1)">
+                        Previous
+                    </a>
+
+                </li>
+            }
+
+            @for (int i = 1; i <= this.Model.Pages; i++)
+            {
+                var active = i == this.Model.CurrentPage ? "active" : string.Empty;
+                <li class="page-item @active">
+                    <a class="page-link "
+                       asp-controller="Home"
+                       asp-action="Index"
+                       asp-route-city="@Model.City"
+                       asp-route-page="@i">@i</a>
+                </li>
+            }
+
+            @if (this.Model.CurrentPage < this.Model.Pages)
+            {
+                <li class="page-item">
+                    <a class="page-link "
+                       asp-controller="Home"
+                       asp-action="Index"
+                       asp-route-city="@Model.City"
+                       asp-route-page="@(this.Model.CurrentPage + 1)">
+                        Next
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled">
+                    <span class="page-link">Next</span>
+                </li>
+            }
+        </ul>
+    </nav>
+}

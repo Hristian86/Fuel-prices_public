@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        if (User.IsInRole(WebConstantsVariables.Admin))
+        {
+
+            <div class="dropdown">
+                <button class="btn btn-outline-danger dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Админски панел
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+                    <a class="dropdown-item nav-link text-dark dropdnText" asp-area="" asp-controller="GasStations" asp-action="Index">Add gas stations</a>
+
+                    @*@if (WebConstantsVariables.PromotionStarted == true)
+        {
+            <a class="dropdown-item nav-link text-dark dropdnText" asp-area="" asp-controller="RegisterAdminPage" asp-action="Index">Регистрирани потребители</a>
+        }
+        else if (User.IsInRole(WebConstantsVariables.Admin))
+        {
+            <a class="dropdown-item nav-link text-dark dropdnText" asp-area="" asp-controller="RegisterAdminPage" asp-action="Index">Регистрирани потребители</a>
+        }*@
+
+                    <div class="dropdown-divider"></div>
+
+                    <a class="dropdown-item nav-link text-dark dropdnText" asp-area="" asp-controller="Visitors" asp-action="Index">Visitors</a>
+
+                    <div class="dropdown-divider"></div>
+
+                    <a class="dropdown-item nav-link text-dark dropdnText" asp-area="" asp-controller="Addresses" asp-action="Index">Addressess</a>
+
+                </div>
+            </div>
+
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" id="dropM" asp-page="/Account/Manage/Index">Hello Admin @User.Identity.Name !</a>
+            </li>
+        }
+        else
+        {
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity.Name!</a>
+            </li>
+        }
+        <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        @*<li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+            </li>*@
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Account area</a>
+        </li>
+    }
+</ul>
