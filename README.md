@@ -10,3 +10,6 @@ Successfully indexed in google search console + google analytics(for personal te
 <p>
 Unfinished: (not minified for now, admin controllers have to be remade with ViewModels for them and more...).
 </p>
+<p>
+Link: https://fuel-prices-bg.herokuapp.com
+</p>
